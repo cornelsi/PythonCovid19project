@@ -30,10 +30,3 @@ This project provides a comprehensive analysis of global COVID-19 trends, includ
 2. The roll out of vaccinations in India is high as compared to the USA and Kenya.
 3. Vaccination campaigns have significantly reduced the death rates over time, as seen in the flattening of the death curve.
 4. The data highlights the importance of early vaccination to control mortality rates.
-
-'''
-
-with open('README.md', 'w') as f:
-    f.write(readme_content)
-
-print('\nREADME.md file has been created.')
